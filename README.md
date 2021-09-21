@@ -1,6 +1,12 @@
-# mockup_01
+# prj_provider_app_flutter
 
 A new Flutter project.
+
+## 完了タスク
+
+- ✅ Providerを用いて、親Widgetから子Widgetへデータの受け渡しを行う
+- ✅ ChangeNotifierProviderを用いて、変更可能なデータの受け渡しと変更を行う
+- ✅ ページ間でのデータの受け渡しをProviderで行う
 
 ## Getting Started
 
