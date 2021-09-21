@@ -10,7 +10,7 @@ A new Flutter project.
 
 ## アプリ操作画面
 
-https://user-images.githubusercontent.com/41714308/134209474-d64158de-2b57-4695-90ca-99a802a32f9c.mov
+https://user-images.githubusercontent.com/41714308/134209711-dd62e272-3851-4a46-af94-51354b4c63b8.mov
 
 ## Getting Started
 
