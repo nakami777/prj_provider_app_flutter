@@ -8,6 +8,10 @@ A new Flutter project.
 - ✅ ChangeNotifierProviderを用いて、変更可能なデータの受け渡しと変更を行う
 - ✅ ページ間でのデータの受け渡しをProviderで行う
 
+## アプリ操作画面
+
+https://user-images.githubusercontent.com/41714308/134209474-d64158de-2b57-4695-90ca-99a802a32f9c.mov
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
